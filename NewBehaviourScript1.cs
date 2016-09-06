@@ -11,4 +11,6 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 	
 	}
+	/////asd
+	////b1
 }
